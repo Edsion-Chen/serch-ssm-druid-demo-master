@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-druid-demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ssm-druid-demo.war">
+      <element id="artifact" artifact-name="ssm-druid-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
